@@ -1,6 +1,26 @@
-h1{
-    color: aqua;
+.parent
+{
+    background-color:lightblue;
+    margin-top: 0cqi;
+    height: 200vh;    
 }
-#hello{
-    color: red;
+.e1
+{
+    background-color: red;
+    position: relative;
+    
+}
+.e2
+{
+    background-color: green;
+    position: absolute;
+    
+}
+.e3
+{
+    background-color: yellow;
+    position: fixed;
+    right: 0%;
+
+
 }
